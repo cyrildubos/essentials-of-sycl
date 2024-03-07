@@ -1,4 +1,4 @@
-# Essentials - oneAPI
+# Essentials of SYCL
 
 ## Reference
 
